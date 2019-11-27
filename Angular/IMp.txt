@@ -1,0 +1,9 @@
+Install node.js
+https://nodejs.org/en/download/
+
+2. install angular cli
+	
+npm install -g @angular/cli
+
+3 create new app
+ng new my-new-angular-app
